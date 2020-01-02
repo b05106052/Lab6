@@ -1,0 +1,487 @@
+@media (min-width: 1281px) {
+    #profile {
+        margin: 0;
+        width: 180px;
+        height: 180px;
+        border-radius: 50%;
+        border: 3px solid rgb(56, 145, 187);
+    }
+    #bar {
+        margin: 0;
+        width: 720px;
+        height: 405px;
+    }
+    h1 {
+        margin: 0;
+    }
+    .info {
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-left: 40px;
+        height: 100%;
+    }
+    body {
+        background-color: rgb(82, 86, 89);
+        margin: 0;
+    }
+    h2 {
+        color: darkblue;
+        font-size: 24pt;
+    }
+    h2 :hover {
+        color: coral;
+    }
+    p {
+        color: darkblue;
+        font-size: 20pt;
+    }
+    h3 {
+        color: rgb(5, 135, 221);
+        font-size: 28pt;
+    }
+    ul {
+        border-right: 3px;
+        border-right-style: solid;
+        border-right-color: gray;
+        background-color: rgb(52, 52, 52);
+        width: 250px;
+        position: fixed;
+        height: 100%;
+        overflow: auto;
+        margin-left: 200px;
+        margin-top: 0;
+    }
+    li {
+        display: block;
+        color: rgb(101, 163, 182);
+        font-size: 20pt;
+        padding: 15px 0px 15px 13px;
+    }
+    li:hover {
+        color: rgb(75, 252, 234);
+        font-weight: bold;
+    }
+    .content {
+        background-color: rgb(219, 231, 252);
+        margin-left: 490px;
+        margin-right: 200px;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .lab {
+        color: darkblue;
+    }
+    .lab:hover {
+        color: coral;
+    }
+    .big {
+        margin: 0px auto;
+    }
+    hr {
+        margin: auto;
+    }
+    a {
+        text-decoration: none;
+    }
+}
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+    #profile {
+        margin: 0;
+        width: 180px;
+        height: 180px;
+        border-radius: 50%;
+        border: 3px solid rgb(56, 145, 187);
+    }
+    #bar {
+        margin: 0;
+        width: 360px;
+        height: 202.5px;
+    }
+    h1 {
+        margin: 0;
+    }
+    .info {
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-left: 40px;
+        height: 100%;
+    }
+    body {
+        background-color: rgb(82, 86, 89);
+        margin: 0;
+    }
+    h2 {
+        color: darkblue;
+        font-size: 24pt;
+    }
+    h2 :hover {
+        color: coral;
+    }
+    p {
+        color: darkblue;
+        font-size: 20pt;
+    }
+    h3 {
+        color: rgb(5, 135, 221);
+        font-size: 28pt;
+    }
+    ul {
+        border-right: 3px;
+        border-right-style: solid;
+        border-right-color: gray;
+        background-color: rgb(52, 52, 52);
+        width: 250px;
+        position: fixed;
+        height: 100%;
+        overflow: auto;
+        margin-left: 200px;
+        margin-top: 0;
+    }
+    li {
+        display: block;
+        color: rgb(101, 163, 182);
+        font-size: 20pt;
+        padding: 15px 0px 15px 13px;
+    }
+    li:hover {
+        color: rgb(75, 252, 234);
+        font-weight: bold;
+    }
+    .content {
+        background-color: rgb(219, 231, 252);
+        margin-left: 490px;
+        margin-right: 200px;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .lab {
+        color: darkblue;
+    }
+    .lab:hover {
+        color: coral;
+    }
+    .big {
+        margin: 0px auto;
+    }
+    hr {
+        margin: auto;
+    }
+    a {
+        text-decoration: none;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    #profile {
+        margin: 0;
+        width: 180px;
+        height: 180px;
+        border-radius: 50%;
+        border: 3px solid rgb(56, 145, 187);
+        vertical-align: middle;
+    }
+    #bar {
+        margin: 0;
+        width: 360px;
+        height: 202.5px;
+    }
+    h1 {
+        margin: 0;
+    }
+    .content {
+        background-color: rgb(219, 231, 252);
+    }
+    body {
+        background-color: rgb(82, 86, 89);
+        margin: 0;
+    }
+    h2 {
+        color: darkblue;
+        font-size: 24pt;
+    }
+    h2 :hover {
+        color: coral;
+    }
+    p {
+        color: darkblue;
+        font-size: 20pt;
+    }
+    h3 {
+        color: rgb(5, 135, 221);
+        font-size: 28pt;
+    }
+    ul {
+        margin-left: -40px;
+    }
+    li {
+        display: block;
+        color: rgb(101, 163, 182);
+        font-size: 20pt;
+        padding: 15px 0px 15px 13px;
+        width: max-content;
+        margin: 0 auto;
+    }
+    li:hover {
+        color: rgb(75, 252, 234);
+        font-weight: bold;
+    }
+    .lab {
+        color: darkblue;
+    }
+    .lab:hover {
+        color: coral;
+    }
+    .big {
+        margin: 0px auto;
+    }
+    hr {
+        margin: auto;
+    }
+    a {
+        text-decoration: none;
+    }
+    .intro,
+    .lab,
+    .basic {
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    #profile {
+        margin: 0;
+        width: 180px;
+        height: 180px;
+        border-radius: 50%;
+        border: 3px solid rgb(56, 145, 187);
+        vertical-align: middle;
+    }
+    h1 {
+        margin: 0;
+    }
+    #bar {
+        margin: 0;
+        width: 360px;
+        height: 202.5px;
+    }
+    .content {
+        background-color: rgb(219, 231, 252);
+    }
+    body {
+        background-color: rgb(82, 86, 89);
+        margin: 0;
+    }
+    h2 {
+        color: darkblue;
+        font-size: 24pt;
+    }
+    h2 :hover {
+        color: coral;
+    }
+    p {
+        color: darkblue;
+        font-size: 20pt;
+    }
+    h3 {
+        color: rgb(5, 135, 221);
+        font-size: 28pt;
+    }
+    ul {
+        margin-left: -40px;
+    }
+    li {
+        display: block;
+        color: rgb(101, 163, 182);
+        font-size: 20pt;
+        padding: 15px 0px 15px 13px;
+        width: max-content;
+        margin: 0 auto;
+    }
+    li:hover {
+        color: rgb(75, 252, 234);
+        font-weight: bold;
+    }
+    .lab {
+        color: darkblue;
+    }
+    .lab:hover {
+        color: coral;
+    }
+    .big {
+        margin: 0px auto;
+    }
+    hr {
+        margin: auto;
+    }
+    a {
+        text-decoration: none;
+    }
+    .intro,
+    .lab,
+    .basic {
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+    #profile {
+        margin: 0;
+        width: 180px;
+        height: 180px;
+        border-radius: 50%;
+        border: 3px solid rgb(56, 145, 187);
+        vertical-align: middle;
+    }
+    #bar {
+        margin: 0;
+        width: 360px;
+        height: 202.5px;
+    }
+    h1 {
+        margin: 0;
+    }
+    .content {
+        background-color: rgb(219, 231, 252);
+    }
+    body {
+        background-color: rgb(82, 86, 89);
+        margin: 0;
+    }
+    h2 {
+        color: darkblue;
+        font-size: 24pt;
+    }
+    h2 :hover {
+        color: coral;
+    }
+    p {
+        color: darkblue;
+        font-size: 20pt;
+    }
+    h3 {
+        color: rgb(5, 135, 221);
+        font-size: 28pt;
+    }
+    ul {
+        margin-left: -40px;
+    }
+    li {
+        display: block;
+        color: rgb(101, 163, 182);
+        font-size: 20pt;
+        padding: 15px 0px 15px 13px;
+        width: max-content;
+        margin: 0 auto;
+    }
+    li:hover {
+        color: rgb(75, 252, 234);
+        font-weight: bold;
+    }
+    .lab {
+        color: darkblue;
+    }
+    .lab:hover {
+        color: coral;
+    }
+    .big {
+        margin: 0px auto;
+    }
+    hr {
+        margin: auto;
+    }
+    a {
+        text-decoration: none;
+    }
+    p {
+        font-size: 23px;
+    }
+    .intro,
+    .lab,
+    .basic {
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+    #profile {
+        margin: 0;
+        width: 180px;
+        height: 180px;
+        border-radius: 50%;
+        border: 3px solid rgb(56, 145, 187);
+        vertical-align: middle;
+    }
+    #bar {
+        margin: 0;
+        width: 360px;
+        height: 202.5px;
+    }
+    h1 {
+        margin: 0;
+    }
+    .content {
+        background-color: rgb(219, 231, 252);
+    }
+    body {
+        background-color: rgb(82, 86, 89);
+        margin: 0;
+    }
+    h2 {
+        color: darkblue;
+        font-size: 24pt;
+    }
+    h2 :hover {
+        color: coral;
+    }
+    p {
+        color: darkblue;
+        font-size: 20pt;
+    }
+    h3 {
+        color: rgb(5, 135, 221);
+        font-size: 28pt;
+    }
+    ul {
+        margin-left: -40px;
+    }
+    li {
+        display: block;
+        color: rgb(101, 163, 182);
+        font-size: 20pt;
+        padding: 15px 0px 15px 13px;
+        width: max-content;
+        margin: 0 auto;
+    }
+    li:hover {
+        color: rgb(75, 252, 234);
+        font-weight: bold;
+    }
+    .lab {
+        color: darkblue;
+    }
+    .lab:hover {
+        color: coral;
+    }
+    .big {
+        margin: 0px auto;
+    }
+    hr {
+        margin: auto;
+    }
+    a {
+        text-decoration: none;
+    }
+    p {
+        font-size: 20px;
+    }
+    .intro,
+    .lab,
+    .basic {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}
